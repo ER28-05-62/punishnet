@@ -9,10 +9,6 @@ class Scanner:
         self.target = target
         self.ports = ports
 
-       # self.db = {
-    
-       # }
-
         self.db = []
 
 

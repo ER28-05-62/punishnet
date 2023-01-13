@@ -47,7 +47,4 @@ You have to set host and ports amount, type:
 Then execute command 'run' and wait a bit.
 
 # Tests
-Software tested on:
-  Termux
-  Linux (Kali Linux)
-  Windows (Windows 11)
+Software tested on: Windows; Termux; Linux.

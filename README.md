@@ -31,14 +31,15 @@ cd punishnet
 Setup
 ---
 pip3 install -r requirments.txt
-python3 punish
+python3 punishnet.py
 
 Usage
 ---
 Try command 'help' to see all available commands.
 
 You have to set host and ports amount, type:
-set HOST host_to_scan
-set PORTS ports_amount_to_scan
+--
+1. set HOST host_to_scan
+2. set PORTS ports_amount_to_scan
 
 Then execute command 'run' and wait a bit.

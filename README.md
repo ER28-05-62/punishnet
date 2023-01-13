@@ -19,6 +19,6 @@ In the future I am going to add:
 
 Follow me, and I will have more motivation to add new functions to this project.
 
---
+--------------------------------------------------------------------------------
 
 # Instalation

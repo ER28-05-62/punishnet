@@ -6,7 +6,7 @@ Though it can only perform fast port scanning.
 In the future I am going to add:
 1. Vulnerability Scanner.
 2. Advenced Port Scanner. 
-  (performs scanning and shows version of service 
+  (performs scanning and shows service's version 
    runinng on each open port)
 3. XSS Attack Tool/Scanner.
 4. Web Application Exploits Assembly.

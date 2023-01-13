@@ -46,5 +46,9 @@ You have to set host and ports amount, type:
 
 Then execute command 'run' and wait a bit.
 
+Example: 
+--
+![example](/imgs/example.gif)
+
 # Tests
 Software tested on: Windows; Termux; Linux.

@@ -4,7 +4,7 @@ Though it can only perform fast port scanning.
 -----
 
 # Preview
-
+![preview](/imgs/preview.png)
 
 # Plans
 

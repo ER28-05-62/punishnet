@@ -31,7 +31,9 @@ cd punishnet/punishnet
 
 Setup
 ---
-pip3 install -r requirments.txt
+pip3 install -r requirments.txt 
+
+python3 punishnet.py
 
 python3 punishnet.py
 

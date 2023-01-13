@@ -25,14 +25,11 @@ Follow me, and I will have more motivation to add new functions to this project.
 
 Instalation
 ---
-git clone https://github.com/ER28-05-62/punishnet.git
-
-cd punishnet
+git clone https://github.com/ER28-05-62/punishnet.git && cd punishnet
 
 Setup
 ---
-pip3 install -r requirments.txt
-python3 punishnet.py
+pip3 install -r requirments.txt && python3 punishnet.py
 
 Usage
 ---

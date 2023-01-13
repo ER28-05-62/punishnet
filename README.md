@@ -43,3 +43,6 @@ You have to set host and ports amount, type:
 2. set PORTS ports_amount_to_scan
 
 Then execute command 'run' and wait a bit.
+
+Example:
+![alt text]()

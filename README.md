@@ -21,4 +21,24 @@ Follow me, and I will have more motivation to add new functions to this project.
 
 --------------------------------------------------------------------------------
 
-# Instalation
+# Usage & Instalation
+
+Instalation
+---
+git clone https://github.com/ER28-05-62/punishnet.git
+cd punishnet
+
+Setup
+---
+pip3 install -r requirments.txt
+python3 punish
+
+Usage
+---
+Try command 'help' to see all available commands.
+
+You have to set host and ports amount, type:
+set HOST host_to_scan
+set PORTS ports_amount_to_scan
+
+Then execute command 'run' and wait a bit.

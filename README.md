@@ -1,6 +1,6 @@
 # Description
-punishnet - is a network scanning tool. 
-Though it can only perform fast port scanning.
+punishnet - is a powerfull network scanning tool. 
+Though now it can only perform fast port scanning.
 -----
 
 # Preview

@@ -10,12 +10,20 @@ Though now it can only perform fast port scanning.
 
 In the future I am going to add:
 -----
-1. Vulnerability Scanner.
-2. XSS Attack Tool/Scanner.
-3. Web Application Exploits Assembly.
-4. Advenced Port Scanner. 
-  (performs scanning and shows service's version 
-   runinng on each open port)
+1. Fast Port Scanner - done!
+2. XSS Attack Scanner - done!
+3. Subdomain Scanner.
+4. DNS Enumeration Tool.
+5. DNS Spoofing Attack Tool.
+6. ARP Spoofing (Attack/Detect).
+7. DHCP Listenner.
+8. HTTP Code Injection Tool.
+9. MAC Changer.
+10. SYN Flooding Attack Tool.
+11. DNS Scanner.
+12. SQL Injection Scanner.
+13. WIFI Scanenr.
+14. And other
 
 Follow me, and I will have more motivation to add new functions to this project.
 

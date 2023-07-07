@@ -9,7 +9,7 @@ punishnet - is a powerfull port scanning tool.
 
 Instalation
 ---
-git clone https://github.com/PR0PH3CY0x1/punishnet.git 
+git clone https://github.com/pyc4che/punishnet.git 
 
 cd punishnet/punishnet
 

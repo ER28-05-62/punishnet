@@ -30,8 +30,8 @@ SLOGAN = """                   _     _                _
     """
 
 CONTACTS = """     +----------------------------------+
-     | Creator: ER28-05-62              |
+     | Creator: pyc4che                 |
      +----------------------------------+
-     | Follow me on Twitter @ER28_0562. |
+     | Follow me on Twitter @_pyc4hce.  |
      +----------------------------------+
 """
